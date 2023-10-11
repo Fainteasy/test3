@@ -1,4 +1,5 @@
+import { defineConfig } from "vite"
 
-export default {
-    base: '/test3/'
+export default defineConfig{
+    base: '/test3/',
 }
